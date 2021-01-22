@@ -1,0 +1,10 @@
+{
+  "name": "eventnet",
+  "homepage": "https://gitlab.com/chr777/eventnet",
+  "authors": ["eventnet"],
+  "description": "Capstone Project",
+  "main": "public/index.html",
+  "keywords": ["material", "design", "design"],
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests", "build"],
+  "private": true
+}
